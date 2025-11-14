@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: smart-research-backend
+    env: docker
+    rootDir: email-writer-sb (backend)
+    plan: free
