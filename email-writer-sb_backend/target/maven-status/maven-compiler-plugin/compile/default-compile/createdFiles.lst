@@ -1,0 +1,7 @@
+com\email\writer\Service\EmailGeneratorService.class
+com\email\writer\Service\ResearchService.class
+com\email\writer\Model\EmailRequest.class
+com\email\writer\Controller\EmailGeneratorController.class
+com\email\writer\EmailWriterSbApplication.class
+com\email\writer\Controller\ResearchController.class
+com\email\writer\Model\ResearchRequest.class
